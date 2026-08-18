@@ -1,0 +1,19 @@
+{
+  "collators" : [
+    {
+      "adnl_id" : "tqFLkucgBxmZMxuH6+qxj59+V7iX694EzJGVg4LnkQQ="
+    },
+    {
+      "adnl_id" : "xNPZiVaDwLYMWWgAgRBcu7vix6pCAHUiQzwmasQmczM="
+    }
+  ],
+  "disable_self_collate" : false,
+  "register_collators" : [
+    {
+      "adnl_id" : "tqFLkucgBxmZMxuH6+qxj59+V7iX694EzJGVg4LnkQQ="
+    },
+    {
+      "adnl_id" : "xNPZiVaDwLYMWWgAgRBcu7vix6pCAHUiQzwmasQmczM="
+    }
+  ]
+}
