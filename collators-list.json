@@ -12,20 +12,5 @@
     {
       "adnl_id" : "dNb/J8AV5W7Q0yggzpQxI3dlyKV5miMZSdwJe85Oa+I="
     }
-  ],
-  "disable_self_collate" : false,
-  "register_collators" : [
-    {
-      "adnl_id" : "e5PqL9fXJTNdmneTX6ELdpQoJDEuYP9DOa/Jm8X34zw="
-    },
-    {
-      "adnl_id" : "3utOc/Hp+zChKswvxG7xx82ZQA5D6IVqsrq8e0IjeEc="
-    },
-    {
-      "adnl_id" : "Vp6aU48d39Qc7H4bgd5mauvShncDjcFw+SeVDnh+a+M="
-    },
-    {
-      "adnl_id" : "dNb/J8AV5W7Q0yggzpQxI3dlyKV5miMZSdwJe85Oa+I="
-    }
   ]
 }
